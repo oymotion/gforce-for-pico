@@ -1,0 +1,133 @@
+{
+    "m_SelectedDeviceId": "PA7L10MGFC090771W",
+    "m_SelectedPackage": {
+        "deviceId": "PA7L10MGFC090771W",
+        "name": "com.aoyi.GforceGameDemo",
+        "processId": 8416,
+        "exited": false
+    },
+    "m_SelectedPriority": 1,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "PA7L10MGFC090771W",
+            "name": "com.aoyi.GforceGameDemo",
+            "processId": 23514,
+            "exited": true
+        },
+        {
+            "deviceId": "PA7L10MGFC090771W",
+            "name": "com.aoyi.GforceGameDemo",
+            "processId": 24934,
+            "exited": true
+        },
+        {
+            "deviceId": "PA7L10MGFC090771W",
+            "name": "com.aoyi.GforceGameDemo",
+            "processId": 25961,
+            "exited": true
+        },
+        {
+            "deviceId": "PA7L10MGFC090771W",
+            "name": "com.aoyi.GforceGameDemo",
+            "processId": 28735,
+            "exited": true
+        },
+        {
+            "deviceId": "PA7L10MGFC090771W",
+            "name": "com.aoyi.GforceGameDemo",
+            "processId": 31218,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7L10MGFC090771W",
+            "name": "com.aoyi.GforceGameDemo",
+            "processId": 2632,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7L10MGFC090771W",
+            "name": "com.aoyi.GforceGameDemo",
+            "processId": 4734,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7L10MGFC090771W",
+            "name": "com.aoyi.GforceGameDemo",
+            "processId": 6528,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7L10MGFC090771W",
+            "name": "com.aoyi.GforceGameDemo",
+            "processId": 8416,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": true
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_FilterOptions": {
+        "m_Filter": "Device1",
+        "m_UseRegularExpressions": true,
+        "m_MatchCase": true
+    },
+    "m_SymbolPaths": [],
+    "m_CaptureVideoSettings": {
+        "TimeLimitEnabled": false,
+        "TimeLimit": 180,
+        "VideoSizeEnabled": false,
+        "VideoSizeX": 1280,
+        "VideoSizeY": 720,
+        "BitRateEnabled": false,
+        "BitRateK": 20000,
+        "DisplayIdEnabled": false,
+        "DisplayId": ""
+    }
+}
